@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Adela hendricks",
+    "picture": "https://picsum.photos/200",
+    "position": "Go developer",
+    "gender": "female",
+    "age": 40,
+    "skills": "go, python"
+  },
+  {
+    "id": 2,
+    "name": "Maxim Zaycev",
+    "picture": "https://picsum.photos/200",
+    "position": "data engineer",
+    "gender": "male",
+    "age": 35,
+    "skills": "java, python"
+  },
+  {
+    "id": 3,
+    "name": "Elmira Hopkins",
+    "picture": "https://picsum.photos/200",
+    "position": "android dev",
+    "gender": "female",
+    "age": 21,
+    "skills": "go, c++"
+  },
+  {
+    "id": 4,
+    "name": "Samir Tukmak",
+    "picture": "https://picsum.photos/200",
+    "position": "web-developer",
+    "gender": "male",
+    "age": 47,
+    "skills": "go, python, kotlin"
+  },
+  {
+    "id": 5,
+    "name": "Dima Harmachev",
+    "picture": "https://picsum.photos/200",
+    "position": "1C-dev",
+    "gender": "male",
+    "age": 19,
+    "skills": "c#, python"
+  }
+]
