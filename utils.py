@@ -2,6 +2,7 @@ import json
 
 
 class Condidate():
+
     def __init__(self, path):
         self.path = path
 
@@ -23,7 +24,3 @@ class Condidate():
         with_nedd = candidate[x]
         file.close()
         return with_nedd['picture'], with_nedd['name'], with_nedd['position'], with_nedd['skills']
-# cal = Condidate('condidate.json')
-# print(cal.work_w_x(1))
-
-

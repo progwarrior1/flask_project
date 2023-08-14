@@ -33,7 +33,7 @@
     "position": "web-developer",
     "gender": "male",
     "age": 47,
-    "skills": "go, python, kotlin"
+    "skills": "django, python, kotlin"
   },
   {
     "id": 5,
@@ -42,6 +42,6 @@
     "position": "1C-dev",
     "gender": "male",
     "age": 19,
-    "skills": "c#, python"
+    "skills": "c#, делегирование"
   }
 ]
